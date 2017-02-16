@@ -1,15 +1,15 @@
 {
-  "name": "fa-angular-form-gen",
+  "name": "angular-form-gen-supported",
   "description": "Dynamic drag and drop angular-js form creation, utilizing FontAwesome",
   "main": [
     "dist/angular-form-gen.js",
     "dist/angular-form-gen.css"
   ],
-  "license": "MIT",
-  "homepage": "https://github.com/PranavSathy/angular-form-gen",
+  "license": "Apache v2",
+  "homepage": "https://github.com/LeanFactory/angular-form-gen-supported",
   "repository": {
     "type": "git",
-    "url": "git@github.com:PranavSathy/angular-form-gen.git"
+    "url": "git@github.com:LeanFactory/angular-form-gen-supported.git"
   },
   "keywords": [
     "angularjs",
@@ -20,6 +20,7 @@
   ],
   "version": "0.1.2",
   "authors": [
+    "LeanFactory https://github.com/LeanFactory",
     "Pranav Sathy https://github.com/PranavSathy",
     "Null McNull <noreplies@hotmail.com> https://github.com/McNull"
   ],
