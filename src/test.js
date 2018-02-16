@@ -1,3 +1,3 @@
 (function blah() {
-
+  var complex = '';
 })
